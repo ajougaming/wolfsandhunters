@@ -34,13 +34,10 @@ sysinfo.txt
 *.unitypackage
 
 
-# Exclude
-**/Library/
-**/ProjectSettings/
-**/Temp/
+# etc
 **/Assets/Image/
 **/Assets/Model/
 **/Assets/Sound/
 **/Assets/Standard Assets/
 
-*.meta
+
