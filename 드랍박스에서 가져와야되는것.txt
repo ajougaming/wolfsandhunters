@@ -1,0 +1,7 @@
+.gitignore
+
+
+**/Assets/Image/
+**/Assets/Model/
+**/Assets/Sound/
+**/Assets/Standard Assets/
